@@ -1,6 +1,17 @@
 dev-setup
 ============
 
+## ISAE-SUPAERO Custom configuration
+
+* **OS X updates and Xcode Command Line Tools**
+* **OS X defaults** geared towards developers
+* **Developer tools**: Vim, bash, tab completion, curl, git, GNU core utils, Python
+* **Developer apps**: iTerm2, PyCharm
+* **Common data stores**: MySQL, PostgreSQL, MongoDB, Redis, and Elasticsearch
+* **Javascript web development**: Node.js
+
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/dev-setup-resources/master/res/repo-header.gif">
 </p>
